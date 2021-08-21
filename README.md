@@ -1,14 +1,14 @@
 # Ejemplos_enC_G4
 Ejemplos realizados en C
 
-Ejemplos de programación básica
+                                                            Ejemplos de programación básica
 
 Ejercicio 1: imprimir un menú
 
 Instrucciones:
 
 •	El programa debe de estar comentado para tú “yo del futuro”
-•	Realiza un menú número de opciones
+•	Realiza un menú númerico de opciones
 •	Utiliza la instrucción if para cada opción
 •	En cada opción se debe de imprimir el mensaje “has seleccionado la opción: #de opción”
 
@@ -17,7 +17,7 @@ Ejercicio 2: operaciones aritméticas con variables de diferentes tipos
 
 Instrucciones:
 	
-	Sección 1
+Sección 1:
 
 •	El programa debe de estar comentado para tú “yo del futuro”
 •	Declara una variable de tipo entero. Con valor asignado
@@ -29,7 +29,7 @@ Sección 2:
 
 •	Modifica el programa para que ahora el usuario pueda introducir los valores. Cuidado con las divisiones.
 
-Programación Intermedia
+                                                           Programación Intermedia
 
 Ejercicio 1: Calculadora algebraica
 
@@ -45,7 +45,7 @@ Ejercicio 2: Gráficas
 
 Instrucciones:
 
-	Sección 1
+Sección 1
 
 •	El programa debe de estar comentado para tú “yo del futuro”
 •	Genera 20 valores aleatorios (de tipo float o double) que serán asignados a una variable x
@@ -58,8 +58,7 @@ Sección 2
 •	Ahora modifica el programa para que el usuario introduzca los valores de x y y.
 •	Considera que el usuario puede introducir valores numéricos negativos.
 
-Programación Avanzada
-
+                                                                Programación Avanzada
 
 Ejercicio 1: Regresión lineal
 
@@ -75,9 +74,10 @@ Ejercicio 2: bits
 •	El programa debe de estar comentado para tú “yo del futuro”
 •	Considera la siguiente estructura:
 
-0_00000000_0
+						0_00000000_0
 
-Es una estructura de ocho bits, y dos bits adicionales uno para indicar que se inicia la transmisión de datos, y un bit de paridad que tendrá dos funciones una de indicar que finalizar la transmisión y la otra de indicar que se ha recibido los datos correctos.
+	Es una estructura de ocho bits, y dos bits adicionales uno para indicar que se inicia la transmisión de datos, y un bit de paridad que tendrá dos funciones 	una de indicar que finalizar la transmisión y la otra de indicar que se ha recibido los datos correctos.
+
 •	Para que el ultimo bit pueda cumplir las dos funciones, se deben de considerar los últimos dos bits como operadores lógicos (compuertas).
 •	Bajo esta premisa, elabora un programa en lenguaje C de tal forma que se pueda realizar una comparación con los datos enviados y recibidos, en donde el único indicador que son correctos es el bit de paridad.
 
@@ -109,9 +109,6 @@ Secuencia aditiva esxclusiva:
 1110
 1111
 
-Programación Experta
-
-Ejercicio 1: Desarrolla una biblioteca
 
 
 
